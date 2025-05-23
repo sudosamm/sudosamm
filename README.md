@@ -1,5 +1,5 @@
 # Eae, chefia? Seja bem-vindo(a)!
-Me chamo Samuel Patricio, sou professor formado em Análise e Desenvolvimento de Sistemas e moderador no Servidor Oficial de Tower of Fantasy (*não que seja muita coisa, mas já é alguma coisa*), mas um dia ainda atinjo a meta de trabalhar como desenvolvedor back-end.
+Me chamo Samuel Patricio, sou professor formado em Análise e Desenvolvimento de Sistemas e moderador no [Servidor Oficial de Tower of Fantasy](https://discord.com/invite/toweroffantasy) (*não que seja muita coisa, mas já é alguma coisa*), mas um dia ainda atinjo a meta de trabalhar como dev.
 
 ## Aprendendo e aprimorando
 É aquela coisa né? Não tem como a gente saber de tudo, mas é possível expandir o conhecimento que já possuimos.
@@ -42,11 +42,11 @@ Se liga aqui no <a href='https://gustavoalmeida.my.canva.site/ga' target='_blank
 
 ## Status
 <div align="center" style="display:flex; justify-content: space-evenly;">
-  <a href="https://github.com/SaruelDustiness/">
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=SaruelDustiness&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github"/>
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaruelDustiness&layout=compact&langs_count=7&theme=algolia&locale=pt-br&border_radius=10&"/>
+  <a href="https://github.com/sudosamm/">
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=sudosamm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github"/>
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudosamm&layout=compact&langs_count=7&theme=algolia&locale=pt-br&border_radius=10&"/>
   </a>
 
-![Snake animation](https://github.com/SaruelDustiness/SaruelDustiness/blob/output/python_so_que_azul_e_maluco.svg)
+![Snake animation](https://github.com/sudosamm/sudosamm/blob/output/python_so_que_azul_e_maluco.svg)
 <!--na vdd é amarelo :c-->
 </div>
