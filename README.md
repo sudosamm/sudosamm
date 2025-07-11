@@ -1,5 +1,5 @@
 # Eae, chefia? Seja bem-vindo(a)!
-Me chamo Samuel Patricio, sou professor formado em Análise e Desenvolvimento de Sistemas e moderador no [Servidor Oficial de Tower of Fantasy](https://discord.com/invite/toweroffantasy) (*não que seja muita coisa, mas já é alguma coisa*), mas um dia ainda atinjo a meta de trabalhar como dev.
+Me chamo Samuel Patricio, sou professor formado em Análise e Desenvolvimento de Sistemas.
 
 ## Aprendendo e aprimorando
 É aquela coisa né? Não tem como a gente saber de tudo, mas é possível expandir o conhecimento que já possuimos.
