@@ -4,8 +4,6 @@
 
 </div>
 <div align="center" style="display:flex; justify-content: space-evenly;">
-
-<img src="https://spotify-readme-widget-bel8.onrender.com/api/spotify/now" />
   
 ![Snake animation](https://github.com/sudosamm/sudosamm/blob/output/python_so_que_azul_e_maluco.svg)
 <!--na vdd é amarelo :c-->
