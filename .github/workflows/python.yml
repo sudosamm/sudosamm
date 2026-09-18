@@ -14,16 +14,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - name: generate python_so_que_azul_e_maluco.svg
+      - name: generate cobrinha_vetor.svg
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/python_so_que_azul_e_maluco.svg?palette=github-dark&color_snake=orange&color_dots=#1c2e4f,#214377,#2159a2,#1b70d0,#0088ff
+            dist/cobrinha_vetor.svg?palette=github-dark&color_snake=orange&color_dots=#1c2e4f,#214377,#2159a2,#1b70d0,#0088ff
 
           
           
-      - name: push python_so_que_azul_e_maluco.svg to the output branch
+      - name: push cobrinha_vetor.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: python
