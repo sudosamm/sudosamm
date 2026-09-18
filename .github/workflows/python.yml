@@ -2,31 +2,31 @@ name: Cobrinha
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Gatilho manual
+  push: # Cada push da main executa o script
+    branches:
+      - main
 
 jobs:
   build:
+    name: Atualizar dados
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+      # Snake Animation
+      - name: generate cobrinha_vetor.svg
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }} 
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/cobrinha_contribuidora.svg
-            dist/cobrinha_contribuidora-dark.svg?palette=github-dark
-            dist/cobrinha_contribuidora.gif
-      
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/cobrinha_vetor.svg?palette=github-dark&color_snake=orange&color_dots=#1c2e4f,#214377,#2159a2,#1b70d0,#0088ff
+
+          
+          
+      - name: push cobrinha_vetor.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
-          target_branch: output
+          target_branch: python
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
